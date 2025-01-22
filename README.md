@@ -2,12 +2,7 @@
 
 ## Visão Geral
 
-Você irá construir um site simples de cursos que simula um usuário já logado que comprou 3 dos 10 cursos disponíveis. O objetivo deste teste é avaliar suas habilidades em desenvolvimento frontend, incluindo roteamento, gerenciamento de estado e design de experiência do usuário.
-
-## Wireframes à serem utilizados como referência
-![wireframe1](https://freeimage.host/i/2itCcCl)
-![wireframe2](https://freeimage.host/i/2itCYQ4)
-![wireframe2](https://freeimage.host/i/2itC7jf)
+Você irá construir um site simples de cursos que simula um usuário já logado que comprou 3 dos 10 cursos disponíveis. O objetivo deste teste é avaliar suas habilidades em desenvolvimento frontend, incluindo roteamento, gerenciamento de estado e design de experiência do usuário, no fim deste arquivo estão à estrutura de dados e os wireframes de referência.
 
 ## Requisitos
 
@@ -158,4 +153,10 @@ const user = {
   ]
 }
 ```
+
+## Wireframes à serem utilizados como referência
+![wireframe1](https://iili.io/2itC7jf.png)
+![wireframe2](https://iili.io/2itCcCl.png)
+![wireframe3](https://iili.io/2itCYQ4.png)
+
 Boa sorte e bom código!
