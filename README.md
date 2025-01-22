@@ -1,4 +1,4 @@
-# Grupo Permaneo - Teste para posições de Front-end
+# Grupo Permaneo - Teste técnico para posições de Front-end
 
 ## Visão Geral
 
