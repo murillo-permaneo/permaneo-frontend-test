@@ -42,7 +42,7 @@ Você irá construir um site simples de cursos que simula um usuário já logado
 
 - Forneça um link para um repositório no GitHub com o seu código.
 - Publique a aplicação em alguma plataforma como https://vercel.com/ ou qualquer outra que tiver familiaridade.
-- Inclua um arquivo `README.md` no repositório explicando como rodar o projeto localmente.
+- Inclua um arquivo `README.md` no repositório explicando como rodar o projeto localmente(NPM, Docker ou afins)
 
 ## Critérios de Avaliação
 
