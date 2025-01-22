@@ -39,7 +39,7 @@ Você irá construir um site simples de cursos que simula um usuário já logado
 - Adicione comentários e documentação onde necessário.
 
 ## Submissão
-
+Envie os dados abaixo para o recrutador que está em contato:
 - Forneça um link para um repositório no GitHub com o seu código.
 - Publique a aplicação em alguma plataforma como https://vercel.com/ ou qualquer outra que tiver familiaridade.
 - Inclua um arquivo `README.md` no repositório explicando como rodar o projeto localmente(NPM, Docker ou afins)
