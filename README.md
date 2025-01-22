@@ -4,6 +4,11 @@
 
 Você irá construir um site simples de cursos que simula um usuário já logado que comprou 3 dos 10 cursos disponíveis. O objetivo deste teste é avaliar suas habilidades em desenvolvimento frontend, incluindo roteamento, gerenciamento de estado e design de experiência do usuário.
 
+## Wireframes à serem utilizados como referência
+![wireframe1](https://freeimage.host/i/2itCcCl)
+![wireframe2](https://freeimage.host/i/2itCYQ4)
+![wireframe2](https://freeimage.host/i/2itC7jf)
+
 ## Requisitos
 
 1. **Página de Lista de Cursos**:
